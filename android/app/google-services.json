@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "118704648061",
+    "project_id": "contacts-app-d3ca2",
+    "storage_bucket": "contacts-app-d3ca2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:118704648061:android:9f9df27eb1e034a9f1e614",
+        "android_client_info": {
+          "package_name": "com.example.contacts_manager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "118704648061-g30p9b7h2qg4g9118s4f2lavl77d1opm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7KR3SO2H-BxIaPwnmyVNrWwpXTlmUTLk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "118704648061-g30p9b7h2qg4g9118s4f2lavl77d1opm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
